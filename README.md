@@ -4,8 +4,6 @@ Ce dossier Repository est lié au cours `Découvrir Claude lA d'Anthropic`. Le c
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
-[Marketing Paragraph for Codespaces - without Codespaces: _remove all 3 pragraphs_ - with Codespace: _keep the right paragraph_ for the right course type (1 of 3)]
-
 DESCRIPTION DE LA FORMATION
 
 ## Instructions
