@@ -9,9 +9,9 @@ Cette formation est destinée aux passionnés d'IA générative souhaitant déco
 ## Installation
 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
-   - [Liste des logiciels/dépendances utiles à la formation] 
+   - d'un éditeur de code Python (Google Colab fait très bien l'affaire, VSCode, Jupyter Notebook, ..) 
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-3. [Instructions spécifiques au cours] 
+3. Vous devrez d'abord créer un compte sur la console Anthropic, tout est détaillé dans la vidéo 03_01
 
 ### Formateur
 
