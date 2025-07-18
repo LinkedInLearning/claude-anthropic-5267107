@@ -21,7 +21,7 @@ Cette formation est destinée aux passionnés d'IA générative souhaitant déco
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQFgM4TzPVZgDQ/learning-public-crop_675_1200/B4EZgSrB8NHgAY-/0/1752659927612?e=2147483647&v=beta&t=0vYNflMyXP9edzBW_Ij-Ul_MjJC3lD3oqiR5TjHMBY8
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/alison-patou
 
 [1]: # (End of FR-Instruction ###############################################################################################)
